@@ -38,7 +38,7 @@ window.createChecklistSync = function createChecklistSync(keys, onUpdate) {
     try {
       const response = await fetch(location.hostname === '127.0.0.1' ? '/api/checklists' : 'https://yumegram-shoot-0711-checklists.rodionproverka393682.chatgpt.site/api/checklists', edits.length ? {
         method: 'POST', headers: {'Content-Type': 'application/json'},
-        body: JSON.stringify({legacy: [], edits: edits.map(edit => ({...edit, key: "2011-" + edit.key}))}),
+        body: JSON.stringify({legacy: [], edits: edits.map(edit => ({...edit, key: location.hostname === "127.0.0.1" ? edit.key : "2011-" + edit.key}))}),
       } : {cache: 'no-store'});
       if (!response.ok) throw new Error('Checklist unavailable');
       const next = await response.json();
