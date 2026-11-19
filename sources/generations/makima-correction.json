@@ -1,0 +1,8 @@
+{
+  "prompt": "Edit this existing 2x2 cartoon filming storyboard very precisely for assembly continuity. Keep all four panels, same room, adult host, collectible statue geometry, red braid, black costume, stockings, red stool, silver base, framing and drawing style unchanged. In upper right panel only, remove red hand accessory from the miniature's hand and show it as a separate small part in its own foam recess, still within same panel. In bottom right panel only, remove the black bunny-ear headband from the statue and remove the red accessory from its raised hand, leaving that hand empty with original sculpted fingers. These accessories are installed in subsequent filmed shots. Preserve the red hair accessory by the braid. Keep every other detail identical. No new text.",
+  "references": [
+    "sources/generations/makima-grid-v1.png"
+  ],
+  "output": "sources/generations/makima-grid.png",
+  "reason": "Accessory installation follows statue placement, so ears and red accessory are absent in placement panel."
+}

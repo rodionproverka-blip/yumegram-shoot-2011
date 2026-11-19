@@ -1,0 +1,1090 @@
+[
+  {
+    "videoId": "mitsuri",
+    "visualId": "mitsuri-visual-01",
+    "kind": "photo",
+    "sourceFile": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/references/mitsuri-box.jpg",
+    "sourceSha256": "52c1dd5c9ae5f85226b91bfddf3876dbf4e0e12421b86b5bd38e4e3d2360bcea",
+    "output": "assets/frames/mitsuri-01.webp",
+    "outputSha256": "115d059ab20bf3d00666f3644452ab02e62137919e9745e00c403d632e058821"
+  },
+  {
+    "videoId": "mitsuri",
+    "visualId": "mitsuri-visual-02",
+    "kind": "draft",
+    "generationSheet": "mitsuri",
+    "panel": 0,
+    "crop": [
+      2,
+      2,
+      541,
+      722
+    ],
+    "output": "assets/frames/mitsuri-02.webp",
+    "outputSha256": "2a4b15555cc2e814a50639de0334c59a297788a375134b2620c7f57f8ca142b1"
+  },
+  {
+    "videoId": "mitsuri",
+    "visualId": "mitsuri-visual-03",
+    "kind": "draft",
+    "generationSheet": "mitsuri",
+    "panel": 1,
+    "crop": [
+      545,
+      2,
+      1084,
+      722
+    ],
+    "output": "assets/frames/mitsuri-03.webp",
+    "outputSha256": "684c816259364b4e3ec1509553642cb1ddd19e8c094cc59a3b771e77ad44018b"
+  },
+  {
+    "videoId": "mitsuri",
+    "visualId": "mitsuri-visual-04",
+    "kind": "draft",
+    "generationSheet": "mitsuri",
+    "panel": 2,
+    "crop": [
+      2,
+      726,
+      541,
+      1446
+    ],
+    "output": "assets/frames/mitsuri-04.webp",
+    "outputSha256": "b2a1414339f63f4b5f50934fb8f48b43a8c575c010aac14b304bee48b07381df"
+  },
+  {
+    "videoId": "mitsuri",
+    "visualId": "mitsuri-visual-05",
+    "kind": "draft",
+    "generationSheet": "mitsuri",
+    "panel": 3,
+    "crop": [
+      545,
+      726,
+      1084,
+      1446
+    ],
+    "output": "assets/frames/mitsuri-05.webp",
+    "outputSha256": "31d7f363d413ee664ffcbc7d20144a5dbb4bd3f56317189f58197e285c22843d"
+  },
+  {
+    "videoId": "mitsuri",
+    "visualId": "mitsuri-visual-06",
+    "kind": "source",
+    "sourceFile": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/videos/mitsuri.mp4",
+    "sourceSha256": "02dcdfb0f78318969f0dae24a2c328b94e2d2e7b98f8b4c9a0f1f282c89a14d2",
+    "sourceSecond": 15,
+    "crop": null,
+    "mask": [
+      326,
+      825,
+      126,
+      78
+    ],
+    "output": "assets/frames/mitsuri-06.webp",
+    "outputSha256": "606b72eb6c23d08538d2d33a14b2799c6bdf5a7ea6a4d15e75d5a4cc037c6d4b"
+  },
+  {
+    "videoId": "mitsuri",
+    "visualId": "mitsuri-visual-07",
+    "kind": "source",
+    "sourceFile": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/videos/mitsuri.mp4",
+    "sourceSha256": "02dcdfb0f78318969f0dae24a2c328b94e2d2e7b98f8b4c9a0f1f282c89a14d2",
+    "sourceSecond": 30.8,
+    "crop": [
+      500,
+      890,
+      220,
+      80
+    ],
+    "mask": null,
+    "output": "assets/frames/mitsuri-07.webp",
+    "outputSha256": "9d8fa4fcc5b4407fb25a8eee520e0bcb40dfa394960288a8c4043d2ff4b3f3ca"
+  },
+  {
+    "videoId": "mitsuri",
+    "visualId": "mitsuri-visual-08",
+    "kind": "source",
+    "sourceFile": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/videos/mitsuri.mp4",
+    "sourceSha256": "02dcdfb0f78318969f0dae24a2c328b94e2d2e7b98f8b4c9a0f1f282c89a14d2",
+    "sourceSecond": 27.4,
+    "crop": null,
+    "mask": null,
+    "output": "assets/frames/mitsuri-08.webp",
+    "outputSha256": "6b907b4e813986aebd5a8cbdd4a2f5b2a730475415f96e20289d332aec53a174"
+  },
+  {
+    "videoId": "mitsuri",
+    "visualId": "mitsuri-visual-09",
+    "kind": "source",
+    "sourceFile": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/videos/mitsuri.mp4",
+    "sourceSha256": "02dcdfb0f78318969f0dae24a2c328b94e2d2e7b98f8b4c9a0f1f282c89a14d2",
+    "sourceSecond": 44.5,
+    "crop": [
+      480,
+      854,
+      0,
+      30
+    ],
+    "mask": null,
+    "output": "assets/frames/mitsuri-09.webp",
+    "outputSha256": "b48e9f1eddc5c12c1b59c7cc9c922536b44c3840f13c2956800741b7bd683df7"
+  },
+  {
+    "videoId": "mitsuri",
+    "visualId": "mitsuri-visual-10",
+    "kind": "source",
+    "sourceFile": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/videos/mitsuri.mp4",
+    "sourceSha256": "02dcdfb0f78318969f0dae24a2c328b94e2d2e7b98f8b4c9a0f1f282c89a14d2",
+    "sourceSecond": 37.7,
+    "crop": [
+      520,
+      925,
+      20,
+      60
+    ],
+    "mask": null,
+    "output": "assets/frames/mitsuri-10.webp",
+    "outputSha256": "c20d7ffd77c41c12c60792ce18eca692df94d1f5b469be7dcb51cfd6b8b9de27"
+  },
+  {
+    "videoId": "mitsuri",
+    "visualId": "mitsuri-visual-11",
+    "kind": "source",
+    "sourceFile": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/videos/mitsuri.mp4",
+    "sourceSha256": "02dcdfb0f78318969f0dae24a2c328b94e2d2e7b98f8b4c9a0f1f282c89a14d2",
+    "sourceSecond": 72,
+    "crop": null,
+    "mask": null,
+    "output": "assets/frames/mitsuri-11.webp",
+    "outputSha256": "0911ec153276f5f0f49e1a284689c9e7b55bdab70eac30c975ed5fdbea84e8ae"
+  },
+  {
+    "videoId": "mitsuri",
+    "visualId": "mitsuri-visual-12",
+    "kind": "source",
+    "sourceFile": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/videos/mitsuri.mp4",
+    "sourceSha256": "02dcdfb0f78318969f0dae24a2c328b94e2d2e7b98f8b4c9a0f1f282c89a14d2",
+    "sourceSecond": 34.3,
+    "crop": null,
+    "mask": null,
+    "output": "assets/frames/mitsuri-12.webp",
+    "outputSha256": "70aa8eb933f40ae48d4f427fc1d3cc0b1e85554c12cc2a0eff2c3c37796f50db"
+  },
+  {
+    "videoId": "mitsuri",
+    "visualId": "mitsuri-visual-13",
+    "kind": "source",
+    "sourceFile": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/videos/mitsuri.mp4",
+    "sourceSha256": "02dcdfb0f78318969f0dae24a2c328b94e2d2e7b98f8b4c9a0f1f282c89a14d2",
+    "sourceSecond": 58.2,
+    "crop": null,
+    "mask": null,
+    "output": "assets/frames/mitsuri-13.webp",
+    "outputSha256": "d0afa71c987596f7b49cf450134a39dea5ef9fb4e857b4875d689e69bffa70ed"
+  },
+  {
+    "videoId": "mitsuri",
+    "visualId": "mitsuri-visual-14",
+    "kind": "source",
+    "sourceFile": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/videos/mitsuri.mp4",
+    "sourceSha256": "02dcdfb0f78318969f0dae24a2c328b94e2d2e7b98f8b4c9a0f1f282c89a14d2",
+    "sourceSecond": 54.8,
+    "crop": null,
+    "mask": null,
+    "output": "assets/frames/mitsuri-14.webp",
+    "outputSha256": "e9f31c63a7d7492f8dec31f094aceb0fa2f801b765d655fd168495ba2b03f16a"
+  },
+  {
+    "videoId": "reze",
+    "visualId": "reze-visual-01",
+    "kind": "photo",
+    "sourceFile": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/references/reze-box.jpg",
+    "sourceSha256": "275e0fbb89cf237bf35e2feb0a73e04ca584d065f4e53c9934240fb950312721",
+    "output": "assets/frames/reze-01.webp",
+    "outputSha256": "aabd4e032bd287afd0a134026c1a0ea542638793c3a644c0021b5d582bb11a72"
+  },
+  {
+    "videoId": "reze",
+    "visualId": "reze-visual-02",
+    "kind": "draft",
+    "generationSheet": "reze",
+    "panel": 0,
+    "crop": [
+      2,
+      2,
+      630,
+      621
+    ],
+    "output": "assets/frames/reze-02.webp",
+    "outputSha256": "f9ce5af48af097ebb4501a7527390fd2156d031e614f3f89eeb8afcaaf5fba7e"
+  },
+  {
+    "videoId": "reze",
+    "visualId": "reze-visual-03",
+    "kind": "draft",
+    "generationSheet": "reze",
+    "panel": 1,
+    "crop": [
+      634,
+      2,
+      1261,
+      621
+    ],
+    "output": "assets/frames/reze-03.webp",
+    "outputSha256": "0eadd2cd2519fb212bfe16933d9061a3d2740d6cffd72dc637d0400872c9b52b"
+  },
+  {
+    "videoId": "reze",
+    "visualId": "reze-visual-04",
+    "kind": "draft",
+    "generationSheet": "reze",
+    "panel": 2,
+    "crop": [
+      2,
+      625,
+      630,
+      1244
+    ],
+    "output": "assets/frames/reze-04.webp",
+    "outputSha256": "e6b4fb58801c160214322f465a65a9cba723f1fb201dcabfdf4c6d8bcb1ebf80"
+  },
+  {
+    "videoId": "reze",
+    "visualId": "reze-visual-05",
+    "kind": "draft",
+    "generationSheet": "reze",
+    "panel": 3,
+    "crop": [
+      634,
+      625,
+      1261,
+      1244
+    ],
+    "output": "assets/frames/reze-05.webp",
+    "outputSha256": "e6692db8ec80e5e70e77e071f6309ee0454e2f5ac2dd5dcbd8c3f3e4e83dd1a3"
+  },
+  {
+    "videoId": "reze",
+    "visualId": "reze-visual-06",
+    "kind": "source",
+    "sourceFile": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/videos/reze.mp4",
+    "sourceSha256": "d5f5d007823a5c08ff8bfe5dbbf08b8f43583b9626d0678d13264701185225ad",
+    "sourceSecond": 19.5,
+    "crop": [
+      500,
+      890,
+      95,
+      40
+    ],
+    "mask": null,
+    "output": "assets/frames/reze-06.webp",
+    "outputSha256": "adc3f612096ffdba0403c9ec6e31a798a6b9508f043c0fa7c3bc46f5a1d4d77e"
+  },
+  {
+    "videoId": "reze",
+    "visualId": "reze-visual-07",
+    "kind": "source",
+    "sourceFile": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/videos/reze.mp4",
+    "sourceSha256": "d5f5d007823a5c08ff8bfe5dbbf08b8f43583b9626d0678d13264701185225ad",
+    "sourceSecond": 82.9,
+    "crop": null,
+    "mask": null,
+    "output": "assets/frames/reze-07.webp",
+    "outputSha256": "9177d2f68cc478b4996c3d8fc9c0d6ccbbac3b3952271b52075a5eb3601fc15f"
+  },
+  {
+    "videoId": "reze",
+    "visualId": "reze-visual-08",
+    "kind": "source",
+    "sourceFile": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/videos/reze.mp4",
+    "sourceSha256": "d5f5d007823a5c08ff8bfe5dbbf08b8f43583b9626d0678d13264701185225ad",
+    "sourceSecond": 24.4,
+    "crop": [
+      520,
+      925,
+      80,
+      20
+    ],
+    "mask": null,
+    "output": "assets/frames/reze-08.webp",
+    "outputSha256": "8c1cba3efa67f50e2aca4becc26c79f97802ee18c4de00d324ec951316db9d84"
+  },
+  {
+    "videoId": "reze",
+    "visualId": "reze-visual-09",
+    "kind": "source",
+    "sourceFile": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/videos/reze.mp4",
+    "sourceSha256": "d5f5d007823a5c08ff8bfe5dbbf08b8f43583b9626d0678d13264701185225ad",
+    "sourceSecond": 29.3,
+    "crop": null,
+    "mask": null,
+    "output": "assets/frames/reze-09.webp",
+    "outputSha256": "d73eb57be897d958d3e2310b96631ee8fbaae1ab99ce5c313fc91f4a323e6054"
+  },
+  {
+    "videoId": "reze",
+    "visualId": "reze-visual-10",
+    "kind": "source",
+    "sourceFile": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/videos/reze.mp4",
+    "sourceSha256": "d5f5d007823a5c08ff8bfe5dbbf08b8f43583b9626d0678d13264701185225ad",
+    "sourceSecond": 63.4,
+    "crop": null,
+    "mask": null,
+    "output": "assets/frames/reze-10.webp",
+    "outputSha256": "74ac32c322aac0a0761cc264db408f60898f5b4300d1f5badb4029d9292e58dc"
+  },
+  {
+    "videoId": "reze",
+    "visualId": "reze-visual-11",
+    "kind": "source",
+    "sourceFile": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/videos/reze.mp4",
+    "sourceSha256": "d5f5d007823a5c08ff8bfe5dbbf08b8f43583b9626d0678d13264701185225ad",
+    "sourceSecond": 43.9,
+    "crop": null,
+    "mask": null,
+    "output": "assets/frames/reze-11.webp",
+    "outputSha256": "b4a49a2c610508cf43a53f056768c106cdba3a59460d04d4a26b5cadd34d3e97"
+  },
+  {
+    "videoId": "reze",
+    "visualId": "reze-visual-12",
+    "kind": "source",
+    "sourceFile": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/videos/reze.mp4",
+    "sourceSha256": "d5f5d007823a5c08ff8bfe5dbbf08b8f43583b9626d0678d13264701185225ad",
+    "sourceSecond": 112,
+    "crop": null,
+    "mask": null,
+    "output": "assets/frames/reze-12.webp",
+    "outputSha256": "d024660efc5a009134c3e7df95997bf4db270ee8aeb7d39d9c0ee9c15896eddc"
+  },
+  {
+    "videoId": "reze",
+    "visualId": "reze-visual-13",
+    "kind": "source",
+    "sourceFile": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/videos/reze.mp4",
+    "sourceSha256": "d5f5d007823a5c08ff8bfe5dbbf08b8f43583b9626d0678d13264701185225ad",
+    "sourceSecond": 39,
+    "crop": null,
+    "mask": null,
+    "output": "assets/frames/reze-13.webp",
+    "outputSha256": "c8d137122cf70615cc62e7f773864fa3ec3bb26227fb4270d3ab9671431c1b89"
+  },
+  {
+    "videoId": "reze",
+    "visualId": "reze-visual-14",
+    "kind": "source",
+    "sourceFile": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/videos/reze.mp4",
+    "sourceSha256": "d5f5d007823a5c08ff8bfe5dbbf08b8f43583b9626d0678d13264701185225ad",
+    "sourceSecond": 58.5,
+    "crop": null,
+    "mask": null,
+    "output": "assets/frames/reze-14.webp",
+    "outputSha256": "f1cad67464de1507c1545c8e649e6e901124c483465720e47d5e1b08154d7b53"
+  },
+  {
+    "videoId": "reze",
+    "visualId": "reze-visual-15",
+    "kind": "source",
+    "sourceFile": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/videos/reze.mp4",
+    "sourceSha256": "d5f5d007823a5c08ff8bfe5dbbf08b8f43583b9626d0678d13264701185225ad",
+    "sourceSecond": 87.8,
+    "crop": null,
+    "mask": null,
+    "output": "assets/frames/reze-15.webp",
+    "outputSha256": "daa17bf69441f7f504477524350a64b93657bf1cee4c85ceb19b25aa8e181425"
+  },
+  {
+    "videoId": "makima",
+    "visualId": "makima-visual-01",
+    "kind": "draft",
+    "generationSheet": "makima",
+    "panel": 0,
+    "crop": [
+      2,
+      2,
+      541,
+      722
+    ],
+    "output": "assets/frames/makima-01.webp",
+    "outputSha256": "03d3a1a0294418ef2e57ef4c3152e213c8f72139ef2a7196ac989c1670559ec0"
+  },
+  {
+    "videoId": "makima",
+    "visualId": "makima-visual-02",
+    "kind": "draft",
+    "generationSheet": "makima",
+    "panel": 1,
+    "crop": [
+      545,
+      2,
+      1084,
+      722
+    ],
+    "output": "assets/frames/makima-02.webp",
+    "outputSha256": "c8932bcb8d164f42e485fcc867ccc7a86203e157b5524eff119b565a8c066e25"
+  },
+  {
+    "videoId": "makima",
+    "visualId": "makima-visual-03",
+    "kind": "source",
+    "sourceFile": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/videos/makima.mp4",
+    "sourceSha256": "02184be4ba608f2ee02f9711f9576c99e6eb589336a4fec04fa8db6e46b96cce",
+    "sourceSecond": 103.5,
+    "crop": null,
+    "mask": null,
+    "output": "assets/frames/makima-03.webp",
+    "outputSha256": "c2dc992989cdb849dd6d8aa7bcd095deb84d350300d118fb8ade6ce6649cd505"
+  },
+  {
+    "videoId": "makima",
+    "visualId": "makima-visual-04",
+    "kind": "draft",
+    "generationSheet": "makima",
+    "panel": 2,
+    "crop": [
+      2,
+      726,
+      541,
+      1446
+    ],
+    "output": "assets/frames/makima-04.webp",
+    "outputSha256": "fabf23747a8ca2221e35012659588d785099c0d6b017802f5a573ee8c69bbbdd"
+  },
+  {
+    "videoId": "makima",
+    "visualId": "makima-visual-05",
+    "kind": "draft",
+    "generationSheet": "makima",
+    "panel": 3,
+    "crop": [
+      545,
+      726,
+      1084,
+      1446
+    ],
+    "output": "assets/frames/makima-05.webp",
+    "outputSha256": "cbd4cc524eb0f210184ab8eee215843d068b6b661a87e376412ce71926775668"
+  },
+  {
+    "videoId": "makima",
+    "visualId": "makima-visual-06",
+    "kind": "source",
+    "sourceFile": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/videos/makima.mp4",
+    "sourceSha256": "02184be4ba608f2ee02f9711f9576c99e6eb589336a4fec04fa8db6e46b96cce",
+    "sourceSecond": 39,
+    "crop": null,
+    "mask": null,
+    "output": "assets/frames/makima-06.webp",
+    "outputSha256": "cfaf207cbab668b97c6424d9b07ed2fb8660a5601ce3f96075091eaed311520d"
+  },
+  {
+    "videoId": "makima",
+    "visualId": "makima-visual-07",
+    "kind": "source",
+    "sourceFile": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/videos/makima.mp4",
+    "sourceSha256": "02184be4ba608f2ee02f9711f9576c99e6eb589336a4fec04fa8db6e46b96cce",
+    "sourceSecond": 33,
+    "crop": null,
+    "mask": null,
+    "output": "assets/frames/makima-07.webp",
+    "outputSha256": "0ab85dff695dd4b42fcc5b4083daed9b2e67d65183ea30af8a2002b07fd876f7"
+  },
+  {
+    "videoId": "makima",
+    "visualId": "makima-visual-08",
+    "kind": "source",
+    "sourceFile": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/videos/makima.mp4",
+    "sourceSha256": "02184be4ba608f2ee02f9711f9576c99e6eb589336a4fec04fa8db6e46b96cce",
+    "sourceSecond": 114.5,
+    "crop": null,
+    "mask": null,
+    "output": "assets/frames/makima-08.webp",
+    "outputSha256": "fa943763b7d5aa1eafe6c8f98d94f5df54fae9e8567714b4a3d631f503e268b1"
+  },
+  {
+    "videoId": "makima",
+    "visualId": "makima-visual-09",
+    "kind": "source",
+    "sourceFile": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/videos/makima.mp4",
+    "sourceSha256": "02184be4ba608f2ee02f9711f9576c99e6eb589336a4fec04fa8db6e46b96cce",
+    "sourceSecond": 70.8,
+    "crop": [
+      500,
+      890,
+      125,
+      40
+    ],
+    "mask": null,
+    "output": "assets/frames/makima-09.webp",
+    "outputSha256": "8daa0649b8a643cc4e34095669c68d4ef93dadbf2c61cb56204c5fa380740b8c"
+  },
+  {
+    "videoId": "makima",
+    "visualId": "makima-visual-10",
+    "kind": "source",
+    "sourceFile": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/videos/makima.mp4",
+    "sourceSha256": "02184be4ba608f2ee02f9711f9576c99e6eb589336a4fec04fa8db6e46b96cce",
+    "sourceSecond": 33,
+    "crop": [
+      440,
+      782,
+      0,
+      300
+    ],
+    "mask": null,
+    "output": "assets/frames/makima-10.webp",
+    "outputSha256": "52ad2264594041ce1a487e762e8520c8ab49ac01791914dabd0f525318d9d108"
+  },
+  {
+    "videoId": "makima",
+    "visualId": "makima-visual-11",
+    "kind": "source",
+    "sourceFile": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/videos/makima.mp4",
+    "sourceSha256": "02184be4ba608f2ee02f9711f9576c99e6eb589336a4fec04fa8db6e46b96cce",
+    "sourceSecond": 10.9,
+    "crop": null,
+    "mask": null,
+    "output": "assets/frames/makima-11.webp",
+    "outputSha256": "0f28181c1b3ba7d20a888bf184150a494074d0d380596025a1384e02c4e11b0e"
+  },
+  {
+    "videoId": "makima",
+    "visualId": "makima-visual-12",
+    "kind": "source",
+    "sourceFile": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/videos/makima.mp4",
+    "sourceSha256": "02184be4ba608f2ee02f9711f9576c99e6eb589336a4fec04fa8db6e46b96cce",
+    "sourceSecond": 50,
+    "crop": null,
+    "mask": null,
+    "output": "assets/frames/makima-12.webp",
+    "outputSha256": "c5e0f432e354b57d428b8db04324056cd03f5093c164f4146f46c9d91b2a9e53"
+  },
+  {
+    "videoId": "makima",
+    "visualId": "makima-visual-13",
+    "kind": "source",
+    "sourceFile": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/videos/makima.mp4",
+    "sourceSha256": "02184be4ba608f2ee02f9711f9576c99e6eb589336a4fec04fa8db6e46b96cce",
+    "sourceSecond": 60,
+    "crop": null,
+    "mask": null,
+    "output": "assets/frames/makima-13.webp",
+    "outputSha256": "05d81f0f4e380774e0b4de608904dd72e68d1f320b1ac1ed22a5018b9bbe1cfb"
+  },
+  {
+    "videoId": "makima",
+    "visualId": "makima-visual-14",
+    "kind": "source",
+    "sourceFile": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/videos/makima.mp4",
+    "sourceSha256": "02184be4ba608f2ee02f9711f9576c99e6eb589336a4fec04fa8db6e46b96cce",
+    "sourceSecond": 65.4,
+    "crop": [
+      380,
+      676,
+      180,
+      220
+    ],
+    "mask": null,
+    "output": "assets/frames/makima-14.webp",
+    "outputSha256": "02c12b217f6fb4f874a382027919c69d36dbee960d4be4dafb8395f3ccb09fd2"
+  },
+  {
+    "videoId": "makima",
+    "visualId": "makima-visual-15",
+    "kind": "source",
+    "sourceFile": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/videos/makima.mp4",
+    "sourceSha256": "02184be4ba608f2ee02f9711f9576c99e6eb589336a4fec04fa8db6e46b96cce",
+    "sourceSecond": 76.3,
+    "crop": [
+      500,
+      890,
+      100,
+      20
+    ],
+    "mask": null,
+    "output": "assets/frames/makima-15.webp",
+    "outputSha256": "b07213d4d56ff05ea4104b1bd0ee5648cffe8ea709850b79fae4d124b5468282"
+  },
+  {
+    "videoId": "makima",
+    "visualId": "makima-visual-16",
+    "kind": "source",
+    "sourceFile": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/videos/makima.mp4",
+    "sourceSha256": "02184be4ba608f2ee02f9711f9576c99e6eb589336a4fec04fa8db6e46b96cce",
+    "sourceSecond": 54.5,
+    "crop": null,
+    "mask": null,
+    "output": "assets/frames/makima-16.webp",
+    "outputSha256": "6a385347b100a0e2aac62a7a2db62e68ef8a5b88fdad14775b59786283ff7f5d"
+  },
+  {
+    "videoId": "makima",
+    "visualId": "makima-visual-17",
+    "kind": "source",
+    "sourceFile": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/videos/makima.mp4",
+    "sourceSha256": "02184be4ba608f2ee02f9711f9576c99e6eb589336a4fec04fa8db6e46b96cce",
+    "sourceSecond": 125,
+    "crop": null,
+    "mask": null,
+    "output": "assets/frames/makima-17.webp",
+    "outputSha256": "43ee26a948adeec9f4ac222ff5bea5136ce0f090c611342305b6c504da6902bc"
+  },
+  {
+    "videoId": "expectation",
+    "visualId": "expectation-visual-01",
+    "kind": "draft",
+    "generationSheet": "entertainment",
+    "panel": 0,
+    "crop": [
+      2,
+      2,
+      270,
+      481
+    ],
+    "output": "assets/frames/expectation-01.webp",
+    "outputSha256": "356577e32141f1670a211acd40121ec6b9a16a0f2c4ff0af24c60dc1284ddfa0"
+  },
+  {
+    "videoId": "expectation",
+    "visualId": "expectation-visual-02",
+    "kind": "draft",
+    "generationSheet": "entertainment",
+    "panel": 1,
+    "crop": [
+      274,
+      2,
+      541,
+      481
+    ],
+    "output": "assets/frames/expectation-02.webp",
+    "outputSha256": "2cb7e0620b467e66c7a92bdf70398c8ceea866219ff76d1e947b0fc2981723fd"
+  },
+  {
+    "videoId": "expectation",
+    "visualId": "expectation-visual-03",
+    "kind": "draft",
+    "generationSheet": "entertainment",
+    "panel": 2,
+    "crop": [
+      545,
+      2,
+      812,
+      481
+    ],
+    "output": "assets/frames/expectation-03.webp",
+    "outputSha256": "9f3ac5a7756f1047e2331b93c8ebd0a89569a703dfe3e51855ffa0f2120fade4"
+  },
+  {
+    "videoId": "expectation",
+    "visualId": "expectation-visual-04",
+    "kind": "draft",
+    "generationSheet": "entertainment",
+    "panel": 3,
+    "crop": [
+      816,
+      2,
+      1084,
+      481
+    ],
+    "output": "assets/frames/expectation-04.webp",
+    "outputSha256": "91c7fbf466205a7c12bc0a3bd2bab49da2ca0dc2f37f36a24f4d1d11cd9f4617"
+  },
+  {
+    "videoId": "stories",
+    "visualId": "stories-visual-01",
+    "kind": "source",
+    "sourceFile": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/videos/stories.mp4",
+    "sourceSha256": "717ffa6e07eb0d9533fa65e884886138935eed996c75f488ed7a096a89691318",
+    "sourceSecond": 0,
+    "crop": null,
+    "mask": null,
+    "output": "assets/frames/stories-01.webp",
+    "outputSha256": "0c8c75271b90f95eb3f7d2cf44ddf9173378754c4f40b6dd850b98b0fbcd2ca6"
+  },
+  {
+    "videoId": "stories",
+    "visualId": "stories-visual-02",
+    "kind": "source",
+    "sourceFile": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/videos/stories.mp4",
+    "sourceSha256": "717ffa6e07eb0d9533fa65e884886138935eed996c75f488ed7a096a89691318",
+    "sourceSecond": 24.2,
+    "crop": null,
+    "mask": null,
+    "output": "assets/frames/stories-02.webp",
+    "outputSha256": "54663d9a69a7d8f9120e6babaaa8911bbb0422dfbacd896dd961d991a72eb53f"
+  },
+  {
+    "videoId": "stories",
+    "visualId": "stories-visual-03",
+    "kind": "source",
+    "sourceFile": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/videos/stories.mp4",
+    "sourceSha256": "717ffa6e07eb0d9533fa65e884886138935eed996c75f488ed7a096a89691318",
+    "sourceSecond": 42.3,
+    "crop": null,
+    "mask": null,
+    "output": "assets/frames/stories-03.webp",
+    "outputSha256": "aba0be1631634dbee88d008dcb097e17625ec5e847862b2754ee6a1bd5bb1387"
+  },
+  {
+    "videoId": "stories",
+    "visualId": "stories-visual-04",
+    "kind": "source",
+    "sourceFile": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/videos/stories.mp4",
+    "sourceSha256": "717ffa6e07eb0d9533fa65e884886138935eed996c75f488ed7a096a89691318",
+    "sourceSecond": 60.4,
+    "crop": null,
+    "mask": null,
+    "output": "assets/frames/stories-04.webp",
+    "outputSha256": "b55a2dd9f76af913a2e7e60367f7f9e35e7847af679a75fdbe3b5570d291bafb"
+  },
+  {
+    "videoId": "stories",
+    "visualId": "stories-visual-05",
+    "kind": "source",
+    "sourceFile": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/videos/stories.mp4",
+    "sourceSha256": "717ffa6e07eb0d9533fa65e884886138935eed996c75f488ed7a096a89691318",
+    "sourceSecond": 72.5,
+    "crop": null,
+    "mask": null,
+    "output": "assets/frames/stories-05.webp",
+    "outputSha256": "d625fa526396f9c709f214378811d9e78bf1b87f582915bea0d1e0857e37dbef"
+  },
+  {
+    "videoId": "stories",
+    "visualId": "stories-visual-06",
+    "kind": "source",
+    "sourceFile": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/videos/stories.mp4",
+    "sourceSha256": "717ffa6e07eb0d9533fa65e884886138935eed996c75f488ed7a096a89691318",
+    "sourceSecond": 90.6,
+    "crop": null,
+    "mask": null,
+    "output": "assets/frames/stories-06.webp",
+    "outputSha256": "2d0165a03ac38f18df54facec965f1d86884051c06892c3cbed39b160fad0106"
+  },
+  {
+    "videoId": "stories",
+    "visualId": "stories-visual-07",
+    "kind": "source",
+    "sourceFile": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/videos/stories.mp4",
+    "sourceSha256": "717ffa6e07eb0d9533fa65e884886138935eed996c75f488ed7a096a89691318",
+    "sourceSecond": 108.8,
+    "crop": null,
+    "mask": null,
+    "output": "assets/frames/stories-07.webp",
+    "outputSha256": "2a1b24b55c25c1779c6a9384bdcc2aab5ee27780ad6f613ab03ee932143702cd"
+  },
+  {
+    "videoId": "stories",
+    "visualId": "stories-visual-08",
+    "kind": "source",
+    "sourceFile": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/videos/stories.mp4",
+    "sourceSha256": "717ffa6e07eb0d9533fa65e884886138935eed996c75f488ed7a096a89691318",
+    "sourceSecond": 126.9,
+    "crop": null,
+    "mask": null,
+    "output": "assets/frames/stories-08.webp",
+    "outputSha256": "5fb6d0e61ffb5333736ef1609133381a29164357d6267e47dd5a6d483e68404c"
+  },
+  {
+    "videoId": "stories",
+    "visualId": "stories-visual-09",
+    "kind": "source",
+    "sourceFile": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/videos/stories.mp4",
+    "sourceSha256": "717ffa6e07eb0d9533fa65e884886138935eed996c75f488ed7a096a89691318",
+    "sourceSecond": 132.9,
+    "crop": null,
+    "mask": null,
+    "output": "assets/frames/stories-09.webp",
+    "outputSha256": "1b034511ea51aa100cea72d1a7a2e7fe87271ac4e905519501026dfa844e9668"
+  },
+  {
+    "videoId": "favorite",
+    "visualId": "favorite-visual-01",
+    "kind": "draft",
+    "generationSheet": "entertainment",
+    "panel": 4,
+    "crop": [
+      2,
+      485,
+      270,
+      963
+    ],
+    "output": "assets/frames/favorite-01.webp",
+    "outputSha256": "c8af38600910e33790487897ee34ca163fc92e6473ba5f3bb0f22bab9b17f420"
+  },
+  {
+    "videoId": "favorite",
+    "visualId": "favorite-visual-02",
+    "kind": "draft",
+    "generationSheet": "entertainment",
+    "panel": 5,
+    "crop": [
+      274,
+      485,
+      541,
+      963
+    ],
+    "output": "assets/frames/favorite-02.webp",
+    "outputSha256": "db53b740a9339f179f059d80bf80dfb46b83ab386834517ef1309bb6196df326"
+  },
+  {
+    "videoId": "favorite",
+    "visualId": "favorite-visual-03",
+    "kind": "draft",
+    "generationSheet": "entertainment",
+    "panel": 6,
+    "crop": [
+      545,
+      485,
+      812,
+      963
+    ],
+    "output": "assets/frames/favorite-03.webp",
+    "outputSha256": "33bccc6c49b4da6742b90263e6c39d42111c0a55cd76aa5bc0bfa4d68b26d71c"
+  },
+  {
+    "videoId": "favorite",
+    "visualId": "favorite-visual-04",
+    "kind": "draft",
+    "generationSheet": "entertainment",
+    "panel": 7,
+    "crop": [
+      816,
+      485,
+      1084,
+      963
+    ],
+    "output": "assets/frames/favorite-04.webp",
+    "outputSha256": "cadc12a314d394e0f0ec09adf5517e4300bb72e2fdca043e1ee0dc002d239492"
+  },
+  {
+    "videoId": "favorite",
+    "visualId": "favorite-visual-05",
+    "kind": "draft",
+    "generationSheet": "entertainment",
+    "panel": 7,
+    "crop": [
+      816,
+      485,
+      1084,
+      963
+    ],
+    "output": "assets/frames/favorite-05.webp",
+    "outputSha256": "cadc12a314d394e0f0ec09adf5517e4300bb72e2fdca043e1ee0dc002d239492"
+  },
+  {
+    "videoId": "favorite",
+    "visualId": "favorite-visual-06",
+    "kind": "draft",
+    "generationSheet": "entertainment",
+    "panel": 9,
+    "crop": [
+      274,
+      967,
+      541,
+      1446
+    ],
+    "output": "assets/frames/favorite-06.webp",
+    "outputSha256": "2f21c633d18ccb5491ac41c076bfe75350c78257105c6381e04078cf3c660c9f"
+  },
+  {
+    "videoId": "favorite",
+    "visualId": "favorite-visual-07",
+    "kind": "draft",
+    "generationSheet": "entertainment",
+    "panel": 10,
+    "crop": [
+      545,
+      967,
+      812,
+      1446
+    ],
+    "output": "assets/frames/favorite-07.webp",
+    "outputSha256": "5d7e966676959292690df51fcf21f4d8cb95d254e78696c0cfd08c639dc46c60"
+  },
+  {
+    "videoId": "favorite",
+    "visualId": "favorite-visual-08",
+    "kind": "draft",
+    "generationSheet": "entertainment",
+    "panel": 11,
+    "crop": [
+      816,
+      967,
+      1084,
+      1446
+    ],
+    "output": "assets/frames/favorite-08.webp",
+    "outputSha256": "45e5a3f51eb091d4b2cf75a013f8a2080bd98d0f6ce6d8e6ff1c07d1e84cf5f5"
+  },
+  {
+    "videoId": "favorite",
+    "visualId": "favorite-visual-09",
+    "kind": "draft",
+    "generationSheet": "entertainment",
+    "panel": 9,
+    "crop": [
+      274,
+      967,
+      541,
+      1446
+    ],
+    "output": "assets/frames/favorite-09.webp",
+    "outputSha256": "2f21c633d18ccb5491ac41c076bfe75350c78257105c6381e04078cf3c660c9f"
+  },
+  {
+    "videoId": "wrong",
+    "visualId": "wrong-visual-01",
+    "kind": "draft",
+    "generationSheet": "dune",
+    "panel": 6,
+    "crop": [
+      563,
+      703,
+      840,
+      1400
+    ],
+    "output": "assets/frames/wrong-01.webp",
+    "outputSha256": "e58d116107650c7ee7af51f84620996faf42d67968af18d28de38cb5abe9d852"
+  },
+  {
+    "videoId": "wrong",
+    "visualId": "wrong-visual-02",
+    "kind": "draft",
+    "generationSheet": "dune",
+    "panel": 7,
+    "crop": [
+      844,
+      703,
+      1120,
+      1400
+    ],
+    "output": "assets/frames/wrong-02.webp",
+    "outputSha256": "c0056af9bf89ed013bba7d3445d0dbe128d7d51bdde796393424ef539c654c4c"
+  },
+  {
+    "videoId": "wrong",
+    "visualId": "wrong-visual-03",
+    "kind": "source",
+    "sourceFile": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/videos/horror.mp4",
+    "sourceSha256": "a7706db36ae19c618d3cefed991f98eea997d83f7a46ae47b5403e8b8cb6f77b",
+    "sourceSecond": 5.5,
+    "crop": null,
+    "mask": null,
+    "output": "assets/frames/wrong-03.webp",
+    "outputSha256": "24d34af5d0028247387e37331ec6e61e8c3e5486778af91ed68e6a20fb5df5c8"
+  },
+  {
+    "videoId": "wrong",
+    "visualId": "wrong-visual-04",
+    "kind": "source",
+    "sourceFile": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/videos/horror.mp4",
+    "sourceSha256": "a7706db36ae19c618d3cefed991f98eea997d83f7a46ae47b5403e8b8cb6f77b",
+    "sourceSecond": 7.8,
+    "crop": null,
+    "mask": null,
+    "output": "assets/frames/wrong-04.webp",
+    "outputSha256": "4a7d55ee2b92ed53c1f97c908abe3ac194e49b0915a4c12d2d9719fb8793edd0"
+  },
+  {
+    "videoId": "wrong",
+    "visualId": "wrong-visual-05",
+    "kind": "source",
+    "sourceFile": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/videos/horror.mp4",
+    "sourceSha256": "a7706db36ae19c618d3cefed991f98eea997d83f7a46ae47b5403e8b8cb6f77b",
+    "sourceSecond": 9.8,
+    "crop": null,
+    "mask": null,
+    "output": "assets/frames/wrong-05.webp",
+    "outputSha256": "0cfdec1d521ddc299b1f45e0e4009a78b5a6041af0f38b823a7c6ff3e1e0ca6d"
+  },
+  {
+    "videoId": "wrong",
+    "visualId": "wrong-visual-06",
+    "kind": "source",
+    "sourceFile": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/videos/horror.mp4",
+    "sourceSha256": "a7706db36ae19c618d3cefed991f98eea997d83f7a46ae47b5403e8b8cb6f77b",
+    "sourceSecond": 12.2,
+    "crop": null,
+    "mask": null,
+    "output": "assets/frames/wrong-06.webp",
+    "outputSha256": "0b08997be356b2173fbfbf2bca75e9debe9ec60bb3d6789d380427c48e46d468"
+  },
+  {
+    "videoId": "dune",
+    "visualId": "dune-visual-01",
+    "kind": "draft",
+    "generationSheet": "dune",
+    "panel": 0,
+    "crop": [
+      2,
+      2,
+      278,
+      699
+    ],
+    "output": "assets/frames/dune-01.webp",
+    "outputSha256": "8a0600f721c0b6254faa0a20106738f55cc8c4b50a0f777215e173105b1ff4b9"
+  },
+  {
+    "videoId": "dune",
+    "visualId": "dune-visual-02",
+    "kind": "draft",
+    "generationSheet": "dune",
+    "panel": 1,
+    "crop": [
+      282,
+      2,
+      559,
+      699
+    ],
+    "output": "assets/frames/dune-02.webp",
+    "outputSha256": "f4aa5c486023ff926b43eec4ae909848188a3d1656b4c597faa0a8014cb9ea78"
+  },
+  {
+    "videoId": "dune",
+    "visualId": "dune-visual-03",
+    "kind": "draft",
+    "generationSheet": "dune",
+    "panel": 3,
+    "crop": [
+      844,
+      2,
+      1120,
+      699
+    ],
+    "output": "assets/frames/dune-03.webp",
+    "outputSha256": "231afb9f8f7c094b7c1f9372dd1b1b85200aed73ed9c081c24cfe9ade7872b78"
+  },
+  {
+    "videoId": "dune",
+    "visualId": "dune-visual-04",
+    "kind": "draft",
+    "generationSheet": "dune",
+    "panel": 2,
+    "crop": [
+      563,
+      2,
+      840,
+      699
+    ],
+    "output": "assets/frames/dune-04.webp",
+    "outputSha256": "fa754b9b384796d8a9a4ee52c4b2b87171be8ae2772d1b8fdccc7762a7e18eb6"
+  },
+  {
+    "videoId": "dune",
+    "visualId": "dune-visual-05",
+    "kind": "draft",
+    "generationSheet": "dune",
+    "panel": 5,
+    "crop": [
+      282,
+      703,
+      559,
+      1400
+    ],
+    "output": "assets/frames/dune-05.webp",
+    "outputSha256": "c60ce16715e37a5c25c6e79385cc78e9f8727b440cf73e0a05afd7ac4b476f96"
+  }
+]

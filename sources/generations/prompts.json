@@ -1,0 +1,150 @@
+{
+  "templateVersion": "2011-v1",
+  "generations": [
+    {
+      "id": "entertainment",
+      "prompt": "Create a clean colored 2D cartoon filming storyboard matching the supplied real Yumegram room and Pasha photos. Exact 4 columns by 3 rows equal cells, 12 panels, each cell vertical 9:16. No borders inside cells except thin straight grid lines, no text or numbers or logos or speech bubbles. Overall image 2048x2730 or similar ratio. Pasha looks like photo 1 and 2: adult man, middle-parted black hair, small pointed goatee, septum ring, light grey plain T shirt. Room has black collectible display shelves and boxes, matte dark table, no windows. Neutral white artificial light and subtly blurred shelves. All panels plausible to shoot here. Read row major: 1 Pasha seated at table holds a very tiny toy between fingers, comically serious expert expression, waist up front 3/4. 2 tight face and fingers inspecting tiny toy. 3 camera glides along room shelves full of large detailed collectible statues, no Pasha. 4 macro of face and sculpted hair of one dressed display statue. 5 close shot of impressive large statue on shelf, small collectible just beside it, medium height camera. 6 medium Pasha standing next to this shelf, pointing sideways to small toy figure on shelf. 7 close small toy figure at eye level, large statue softly blurred behind. 8 reverse medium Pasha next to shelf looking toward off camera friend on camera left, relaxed. 9 same Pasha closer face smiling with fond memory while looking down at small figurine. 10 close small toy standing on its original base on shelf, no one touching. 11 medium Pasha with amused smile gesturing toward whole wall of cabinets. 12 wide view of entire black display shelves in this real room, followed composition for filming end shot. Keep statue sculpture consistent panel3/4 and panel5/7/10, all clothed nonsexual. Do not duplicate panels.",
+      "references": [
+        "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/references/room-2.png",
+        "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/references/room-4.png"
+      ],
+      "originalFile": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/generations/entertainment-grid.png",
+      "grid": {
+        "columns": 4,
+        "rows": 3
+      },
+      "output": "sources/generations/entertainment-grid.png",
+      "outputSha256": "0c06ef042b0bd2c0d72306e375696392572c8b35cb8ba337d3c93753ee8ec36a",
+      "provider": "image_gen.imagegen",
+      "model": null,
+      "parameters": {
+        "transparent_background": false
+      },
+      "referenceHashes": [
+        {
+          "file": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/references/room-2.png",
+          "sha256": "ea19e700cda6c5a6473f67cf5ce8626e50d6d955f81258347541887844033f56"
+        },
+        {
+          "file": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/references/room-4.png",
+          "sha256": "3daf3dd5fc3fa91e23078728f97b2cd618eca4c59345294d2db4cd1efcb765a0"
+        }
+      ]
+    },
+    {
+      "id": "dune",
+      "prompt": "Create a clear colored 2D cartoon shooting storyboard based on provided photos of Pasha and his real dark-shelf collectible shop room. EXACT equal 4 columns by 2 rows grid, 8 vertical 9:16 panels. No text, no panel numbers, no logos, no speech bubbles. Neutral soft artificial light, black shelves full of statues/boxes, matte dark table. Same adult man as reference photos: middle-parted black hair, small pointed goatee, septum piercing, light grey T shirt. Pasha wears same shirt all shots. Row major panels: 1 seated waist-up 3/4 frontal Pasha carefully holds a cream colored curved collectible ceremonial sci-fi desert knife over its tabletop display stand, gaze from prop to camera. 2 storyboard illustration of golden dunes and distant lone cloaked silhouette, an original conceptual visual for an editing insert, no person at table. 3 original conceptual composition for editing insert: two simple translucent circles over desert landscape, distant palace and geometric political intrigue diagram, no words. 4 side medium Pasha gently returns curved ornamental knife to its tabletop stand while leaning toward camera, hands and stand visible. 5 front close waist up Pasha telling camera an intriguing story, ornamental knife safely on stand visible lower corner. 6 same Pasha medium frontal smiling in friendly question to viewers, hand resting on table by display stand. 7 Pasha STANDING waist-up at dark table 3/4 camera at chest height, smartphone in right hand, happy smug smile about bargain, empty mug on table at left. 8 same framing Pasha placing phone in trouser pocket with right hand while picking up empty mug with left hand, identical table shelves and shirt, satisfied smirk. Distinct consistent separate actions. Blade is a blunt ornamental display collectible. Camera staging instructions conveyed through composition only.",
+      "references": [
+        "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/references/room-2.png",
+        "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/references/room-4.png"
+      ],
+      "grid": {
+        "columns": 4,
+        "rows": 2
+      },
+      "output": "sources/generations/dune-grid.png",
+      "outputSha256": "a3f7faae2e4391b078d377b4f2f10f3d875de210802e7062e7174b582d939f0e",
+      "provider": "image_gen.imagegen",
+      "model": null,
+      "parameters": {
+        "transparent_background": false
+      },
+      "referenceHashes": [
+        {
+          "file": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/references/room-2.png",
+          "sha256": "ea19e700cda6c5a6473f67cf5ce8626e50d6d955f81258347541887844033f56"
+        },
+        {
+          "file": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/references/room-4.png",
+          "sha256": "3daf3dd5fc3fa91e23078728f97b2cd618eca4c59345294d2db4cd1efcb765a0"
+        }
+      ]
+    },
+    {
+      "id": "mitsuri",
+      "prompt": "Use case illustration-story. Create a precise colored 2D cartoon shooting storyboard, EXACT 2 columns by 2 rows grid, four equal vertical 9:16 cells, no captions, numbers or text. Same studio as room photo: black display cabinets behind dark tabletop, neutral white artificial light, no window. Hands wear clean black gloves, torso wears plain dark shirt. Depict the supplied COLLECTIBLE SCULPTURE accurately as an inanimate miniature, preserve exact face hairstyle costume pose colors and real base, never invent joints, detachable pieces or a different figure. White acrylic on the table with low dark turntable for last shots. These panels describe illustrative unboxing staging, not a product redesign. Background shelves softly blurred. Product reference Mitsuri seated on pink SURF board, pink braids with lime tips, green eyes, white wrapped swimsuit, crossed bent legs. Panel1 upper left: open foam cradle viewed 45 degrees from above, real Mitsuri and its pink surfboard nested securely in correctly shaped recess, lid being lifted away. Panel2 upper right: gloved hands support under pink surfboard and substantial base as whole sculpture leaves foam, fingers completely away from braids and ankles, 3/4 side view. Panel3 lower left: hands lower the SAME seated sculpture with pink surfboard onto center of dark turntable on white acrylic, camera at face height, both statue and board visible. Panel4 lower right: close-up pink board edge only and soft brush in black gloved hand sweeping dust off empty edge, Mitsuri softly blurred above. Keep clear exact adult statue design from reference, no bare nudity.",
+      "references": [
+        "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/references/mitsuri-product.jpg",
+        "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/references/room-2.png"
+      ],
+      "grid": {
+        "columns": 2,
+        "rows": 2
+      },
+      "output": "sources/generations/mitsuri-grid.png",
+      "outputSha256": "77f088287f1a6a92498d8a15e12c0a72fb7f90aec23ece1eb30b7855db419375",
+      "provider": "image_gen.imagegen",
+      "model": null,
+      "parameters": {
+        "transparent_background": false
+      },
+      "referenceHashes": [
+        {
+          "file": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/references/mitsuri-product.jpg",
+          "sha256": "8788f971c108559f1f92ae821e02fb4afd964b77b697165f4ada0c5214d783d4"
+        },
+        {
+          "file": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/references/room-2.png",
+          "sha256": "ea19e700cda6c5a6473f67cf5ce8626e50d6d955f81258347541887844033f56"
+        }
+      ]
+    },
+    {
+      "id": "makima",
+      "prompt": "Use case illustration-story. Create a precise colored 2D cartoon shooting storyboard, EXACT 2 columns by 2 rows grid, four equal vertical 9:16 cells, no captions, numbers or text. Same studio as room photo: black display cabinets behind dark tabletop, neutral white artificial light, no window. Hands wear clean black gloves, torso wears plain dark shirt. Depict the supplied COLLECTIBLE SCULPTURE accurately as an inanimate miniature, preserve exact face hairstyle costume pose colors and real base, never invent joints, detachable pieces or a different figure. White acrylic on the table with low dark turntable for last shots. These panels describe illustrative unboxing staging, not a product redesign. Background shelves softly blurred. Product reference Makima with straight red fringe and long red side braid, realistic gold eyes, black shiny bunny bodysuit, white collar and black necktie, black stockings, white cuffs and white pom-poms on black high heels, seated crossed legs on a red round bar stool with silver central pedestal base. Maintain EXACT stool and sitting pose. Panel1 upper left: hands set a tall closed red and dark branded collector box matching box behind real reference statue on tabletop front, avoid readable text but preserve dark red graphic artwork palette. Panel2 upper right: gloved hands lift foam lid from horizontal box revealing neatly separated large parts in moulded cavities, red stool with silver pedestal beside safely packed dressed Makima torso and legs, small removable bunny ears separate. Schematic part arrangement only, don't invent connectors. Panel3 lower left: hands place silver pedestal stool with red cushion on stationary dark turntable. Panel4 lower right: both gloved hands support substantial waist and seat of fully dressed seated Makima as sculpture is lowered onto red stool, steady low front3/4 camera, feet fully framed, match exact photo pose. No nudity or sexual emphasis.",
+      "references": [
+        "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/references/makima-product.jpg",
+        "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/references/room-2.png"
+      ],
+      "grid": {
+        "columns": 2,
+        "rows": 2
+      },
+      "output": "sources/generations/makima-grid.png",
+      "outputSha256": "41997ad27864af1415331d6915d1b286abb025b2ee668b6015c922f8225d8cc8",
+      "provider": "image_gen.imagegen",
+      "model": null,
+      "parameters": {
+        "transparent_background": false
+      },
+      "referenceHashes": [
+        {
+          "file": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/references/makima-product.jpg",
+          "sha256": "7b7b9f0f02c8f61760f88f8628537078c4058e18882d56ab4eb294565712d126"
+        },
+        {
+          "file": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/references/room-2.png",
+          "sha256": "ea19e700cda6c5a6473f67cf5ce8626e50d6d955f81258347541887844033f56"
+        }
+      ]
+    },
+    {
+      "id": "reze",
+      "references": [
+        "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/references/reze-product.jpg",
+        "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/references/room-2.png"
+      ],
+      "grid": {
+        "columns": 2,
+        "rows": 2
+      },
+      "output": "sources/generations/reze-grid.png",
+      "outputSha256": "484c794a59d2a605977d6befc6b09cdffe31e135414c8745dbacc51338400b8d",
+      "provider": "image_gen.imagegen",
+      "model": null,
+      "parameters": {
+        "transparent_background": false
+      },
+      "referenceHashes": [
+        {
+          "file": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/references/reze-product.jpg",
+          "sha256": "70e3cd3d028ee3a79749b1d0b98586c3e3984f0120cbf9f4461238bd7c74e95d"
+        },
+        {
+          "file": "/Users/qerg/Documents/Проекты агенты/вообще все возможное/sites/yumegram-shoot-2011/sources/references/room-2.png",
+          "sha256": "ea19e700cda6c5a6473f67cf5ce8626e50d6d955f81258347541887844033f56"
+        }
+      ]
+    }
+  ]
+}
